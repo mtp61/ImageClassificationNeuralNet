@@ -1,0 +1,12 @@
+Place all images in the unprocessed folder
+processed images will come out in th processed folder
+used and unused images (based on whether or not they were skipped) will be in the corresponding folders
+
+
+Keys
+
+Escape - close program
+S - skip image
+First click - define top left of new image
+Second click - define bottom right of new image
+

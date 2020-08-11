@@ -1,0 +1,6 @@
+__pycache__/
+ipynb/images/
+*.jpg
+captions_train2014.json
+train2014/
+.ipynb_checkpoints
